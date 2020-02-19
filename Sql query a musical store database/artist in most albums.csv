@@ -1,0 +1,205 @@
+ArtistId,count(a.ArtistId),Name
+90,21,Iron Maiden
+22,14,Led Zeppelin
+58,11,Deep Purple
+50,10,Metallica
+150,10,U2
+114,6,Ozzy Osbourne
+118,5,Pearl Jam
+21,4,Various Artists
+82,4,Faith No More
+84,4,Foo Fighters
+149,4,Lost
+152,4,Van Halen
+8,3,Audioslave
+27,3,Gilberto Gil
+51,3,Queen
+59,3,Santana
+68,3,Miles Davis
+88,3,Guns N' Roses
+92,3,Jamiroquai
+113,3,Os Paralamas Do Sucesso
+124,3,R.E.M.
+127,3,Red Hot Chili Peppers
+142,3,The Rolling Stones
+156,3,The Office
+226,3,Eugene Ormandy
+248,3,Berliner Philharmoniker & Herbert Von Karajan
+1,2,AC/DC
+2,2,Accept
+6,2,Antônio Carlos Jobim
+11,2,Black Label Society
+12,2,Black Sabbath
+16,2,Caetano Veloso
+18,2,Chico Science & Nação Zumbi
+19,2,Cidade Negra
+42,2,Milton Nascimento
+52,2,Kiss
+53,2,Spyro Gyra
+54,2,Green Day
+76,2,Creedence Clearwater Revival
+77,2,Cássia Eller
+80,2,Djavan
+81,2,Eric Clapton
+99,2,Legião Urbana
+101,2,Lulu Santos
+110,2,Nirvana
+130,2,Skank
+131,2,Smashing Pumpkins
+137,2,The Black Crowes
+139,2,The Cult
+143,2,The Tea Party
+145,2,Tim Maia
+146,2,Titãs
+147,2,Battlestar Galactica
+208,2,English Concert & Trevor Pinnock
+245,2,Michael Tilson Thomas & San Francisco Symphony
+252,2,Amy Winehouse
+3,1,Aerosmith
+4,1,Alanis Morissette
+5,1,Alice In Chains
+7,1,Apocalyptica
+9,1,BackBeat
+10,1,Billy Cobham
+13,1,Body Count
+14,1,Bruce Dickinson
+15,1,Buddy Guy
+17,1,Chico Buarque
+20,1,Cláudio Zoli
+23,1,Frank Zappa & Captain Beefheart
+24,1,Marcos Valle
+36,1,O Rappa
+37,1,Ed Motta
+41,1,Elis Regina
+46,1,Jorge Ben
+55,1,David Coverdale
+56,1,Gonzaguinha
+57,1,Os Mutantes
+69,1,Gene Krupa
+70,1,Toquinho & Vinícius
+72,1,Vinícius De Moraes
+78,1,Def Leppard
+79,1,Dennis Chambers
+83,1,Falamansa
+85,1,Frank Sinatra
+86,1,Funk Como Le Gusta
+87,1,Godsmack
+89,1,Incognito
+91,1,James Brown
+93,1,JET
+94,1,Jimi Hendrix
+95,1,Joe Satriani
+96,1,Jota Quest
+97,1,João Suplicy
+98,1,Judas Priest
+100,1,Lenny Kravitz
+102,1,Marillion
+103,1,Marisa Monte
+104,1,Marvin Gaye
+105,1,Men At Work
+106,1,Motörhead
+108,1,Mônica Marianno
+109,1,Mötley Crüe
+111,1,O Terço
+112,1,Olodum
+115,1,Page & Plant
+116,1,Passengers
+117,1,Paul D'Ianno
+120,1,Pink Floyd
+121,1,Planet Hemp
+122,1,R.E.M. Feat. Kate Pearson
+125,1,Raimundos
+126,1,Raul Seixas
+128,1,Rush
+132,1,Soundgarden
+133,1,Stevie Ray Vaughan & Double Trouble
+134,1,Stone Temple Pilots
+135,1,System Of A Down
+136,1,"Terry Bozzio, Tony Levin & Steve Stevens"
+138,1,The Clash
+140,1,The Doors
+141,1,The Police
+144,1,The Who
+148,1,Heroes
+151,1,UB40
+153,1,Velvet Revolver
+155,1,Zeca Pagodinho
+157,1,Dread Zeppelin
+158,1,Battlestar Galactica (Classic)
+159,1,Aquaman
+179,1,Scorpions
+180,1,House Of Pain
+196,1,Cake
+197,1,Aisha Duo
+198,1,Habib Koité and Bamada
+199,1,Karsh Kale
+200,1,The Posies
+201,1,Luciana Souza/Romero Lubambo
+202,1,Aaron Goldberg
+203,1,Nicolaus Esterhazy Sinfonia
+204,1,Temple of the Dog
+205,1,Chris Cornell
+206,1,Alberto Turco & Nova Schola Gregoriana
+207,1,"Richard Marlow & The Choir of Trinity College, Cambridge"
+209,1,"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker"
+210,1,"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer"
+211,1,Wilhelm Kempff
+212,1,Yo-Yo Ma
+213,1,Scholars Baroque Ensemble
+214,1,Academy of St. Martin in the Fields & Sir Neville Marriner
+215,1,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner
+216,1,"Berliner Philharmoniker, Claudio Abbado & Sabine Meyer"
+217,1,Royal Philharmonic Orchestra & Sir Thomas Beecham
+218,1,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner
+219,1,"Britten Sinfonia, Ivor Bolton & Lesley Garrett"
+220,1,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti"
+221,1,Sir Georg Solti & Wiener Philharmoniker
+222,1,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair"
+223,1,London Symphony Orchestra & Sir Charles Mackerras
+224,1,Barry Wordsworth & BBC Concert Orchestra
+225,1,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker"
+227,1,Luciano Pavarotti
+228,1,Leonard Bernstein & New York Philharmonic
+229,1,Boston Symphony Orchestra & Seiji Ozawa
+230,1,Aaron Copland & London Symphony Orchestra
+231,1,Ton Koopman
+232,1,Sergei Prokofiev & Yuri Temirkanov
+233,1,Chicago Symphony Orchestra & Fritz Reiner
+234,1,Orchestra of The Age of Enlightenment
+235,1,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra"
+236,1,James Levine
+237,1,Berliner Philharmoniker & Hans Rosbaud
+238,1,Maurizio Pollini
+240,1,Gustav Mahler
+241,1,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos"
+242,1,Edo de Waart & San Francisco Symphony
+243,1,Antal Doráti & London Symphony Orchestra
+244,1,Choir Of Westminster Abbey & Simon Preston
+246,1,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker"
+247,1,The King's Singers
+249,1,"Sir Georg Solti, Sumi Jo & Wiener Philharmoniker"
+250,1,Christopher O'Riley
+251,1,Fretwork
+253,1,Calexico
+254,1,Otto Klemperer & Philharmonia Orchestra
+255,1,Yehudi Menuhin
+256,1,Philharmonia Orchestra & Sir Neville Marriner
+257,1,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart"
+258,1,Les Arts Florissants & William Christie
+259,1,The 12 Cellists of The Berlin Philharmonic
+260,1,Adrian Leaper & Doreen de Feis
+261,1,"Roger Norrington, London Classical Players"
+262,1,Charles Dutoit & L'Orchestre Symphonique de Montréal
+263,1,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir"
+264,1,Kent Nagano and Orchestre de l'Opéra de Lyon
+265,1,Julian Bream
+266,1,Martin Roscoe
+267,1,Göteborgs Symfoniker & Neeme Järvi
+268,1,Itzhak Perlman
+269,1,Michele Campanella
+270,1,Gerald Moore
+271,1,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp"
+272,1,Emerson String Quartet
+273,1,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu"
+274,1,Nash Ensemble
+275,1,Philip Glass Ensemble
